@@ -1,0 +1,29 @@
+{
+  "name": "react-express",
+  "version": "1.0.0",
+  "description": "react-express sample app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^6.5.2",
+    "babel-register": "^6.8.0",
+    "body-parser": "^1.15.1",
+    "browser-sync": "^2.12.7",
+    "browserify": "^13.0.1",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "guid": "0.0.12",
+    "gulp": "^3.9.1",
+    "gulp-live-server": "0.0.29",
+    "jquery": "^2.2.3",
+    "mongoose": "^4.4.16",
+    "react": "^15.0.2",
+    "react-dom": "^15.0.2",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
